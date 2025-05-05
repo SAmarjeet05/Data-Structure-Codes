@@ -1,38 +1,43 @@
-# Data Structure Codes
+# Data Structure Codes 📚
 
-This repository contains C language implementations of various data structure concepts and algorithms. The topics covered include:
+Welcome to the **Data Structure Codes** repository! This repository contains all the lab programs and exercises related to Data Structures, which I have worked on during my course. These programs demonstrate various fundamental data structures and algorithms using different approaches.
 
-1. **Searching Techniques**
-   - Linear Search
-   - Binary Search
+## 📚 About
 
-2. **Sorting Algorithms**
-   - Bubble Sort
-   - Insertion Sort
+This repository includes:
+- **Lab assignments** covering the implementation and manipulation of key data structures like:
+  - Arrays
+  - Linked Lists
+  - Stacks
+  - Queues
+  - Tree Traversal (PreOrderTraversal, InOrderTraversal and PostOrderTraversal)
+  - Graph Traversal (DFS and BFS)
+  - Sorting and Searching Algorithms
+  - Searching Techniques
 
-3. **Linked List**
-   - Singly Linked List
-   - Doubly Linked List
-   - Circular Singly Linked List
-  
-4. **Stack**
-   - Using Array
-   - Using Linked List
+## 📜 Concepts Covered
 
-5. **Queue**
-   - Using Array
-   - Using Linked List
-     
-6. **Circular Queue**
-   - Using Array
-   - Using Linked List
-     
-7. **Tree Traversal**
-   - Pre Order Traversal
-   - In Order Traversal
-   - Post Order Traversal
-     
-8. **Graph Traversal**
-   - DFS (Depth First Search or Depth First Traversal)
-   - BFS (Breadth First Search or Depth First Traversal)
+   - Basic Data Structures: Arrays, Linked Lists, Stacks, Queues
+   - Advanced Data Structures: Trees, Graphs
+   - Algorithms: Sorting (BubbleSort, InsertionSort, etc.), Searching (Binary Search, Linear Search), Dynamic Programming, Graph Traversals (BFS, DFS)
+   - Recursion and Iterative Solutions
+   - Time and Space Complexity Analysis for algorithms
+
+## 🗂️ Repository Structure
+
+```bash
+Data-Structure-Codes/
+├── LinearSearch.c
+├── BinarySearch.c
+├── SinglyLinkedList.c
+└── ...
+├── README.md
+```
+
+
+## 🙌 Contributions
+
+This is a **personal learning** repository. However, if you want to contribute or **suggest improvements**, feel free to open an issue or submit a pull request.
+
+**Feel free to ⭐ this repo if you find it helpful!**
 
