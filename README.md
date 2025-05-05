@@ -19,20 +19,20 @@ This repository contains C language implementations of various data structure co
    - Using Array
    - Using Linked List
 
-6. **Queue**
+5. **Queue**
    - Using Array
    - Using Linked List
      
-8. **Circular Queue**
+6. **Circular Queue**
    - Using Array
    - Using Linked List
      
-10. **Tree Traversal**
+7. **Tree Traversal**
    - Pre Order Traversal
    - In Order Traversal
    - Post Order Traversal
      
-12. **Graph Traversal**
+8. **Graph Traversal**
    - DFS (Depth First Search or Depth First Traversal)
    - BFS (Breadth First Search or Depth First Traversal)
 
